@@ -2,4 +2,6 @@
 @@||html-load.com^
 @@||fb.html-load.com^
 @@||arcraiders.wiki^
+@@||docs.eulen.cc^
+
 
